@@ -1,0 +1,6 @@
+symbols=input("Enter symbol: ")
+long=int(input("Enter width: "))
+print(symbols* long)
+print(symbols + " "*(long-2) + symbols)
+print(symbols + " "*(long-2) + symbols)
+print(symbols*long)
